@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/ariel_mn/Bin/Crypto/AutoClicker/autoclicker.png
+Exec=bash /home/ariel_mn/Bin/Crypto/AutoClicker/AutoClicker.sh
+Name=AutoClicker

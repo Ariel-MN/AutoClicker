@@ -1,0 +1,28 @@
+## AutoClicker Configuration ##
+
+#  Options:
+#    LeftClick,x,y,delay
+#    RightClick,x,y,delay
+#    WriteText,text,delay
+#    PressKeys,keys,delay
+#    SwitchToLeftDesktop,delay
+#    SwitchToRightDesktop,delay
+
+#  Explanation:
+#    x = horizontal coordinate
+#    y = vertical coordinate
+#    delay = delay time after action in seconds
+#    text = input text enclosed in double quotes ("text")
+#    keys = input keys enclosed in double quotes ("ctrl+a")
+
+#  Usage Example:
+#    LeftClick,100,100,1
+#    Performs a Left click at coordinates 100x100
+#    with a delay of 1 second after the action.
+
+## Write all the actions down here ##
+
+# Initial delay
+Delay,1
+
+RightClick,100,100,10
